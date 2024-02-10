@@ -1,5 +1,5 @@
 # gyakorlas
 első normális gyakorló repo
 
-ez egy teszt sajnálom a sok asdot
-de tényleg
+a mai nap feladatai
+basic html oldal készitése spongya bobbal és patrikkal

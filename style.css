@@ -14,10 +14,19 @@ body{
 
 header{
     background-color: #333;
-    background-color: rgba(255, 0, 0, 0,69);
+    background-color: rgba(255, 0, 0, 0.69);
     color: #ffff;
     padding: 20px;
     text-align: center;
+}
+
+nav {
+    width: 100%;
+    background-color: purple;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: fixed;
+    margin: 5px;
 }
 
 nav ul {
@@ -54,7 +63,22 @@ footer{
     text-align: center;
 }
 
-#xx{
+#xx1{
     background-color:yellow ;
+
+}
+
+#xx2{
+    background-color:black ;
+
+}
+
+#xx3{
+    background-color:greenyellow ;
+
+}
+
+#xx4{
+    background-color:cyan ;
 
 }
