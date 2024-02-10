@@ -1,4 +1,4 @@
 # gyakorlas
 első normális gyakorló repo
 
-asdasdasdasdasdasdasdasdasdasdasdasdasdada
+ez egy teszt sajnálom a sok asdot 
